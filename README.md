@@ -16,7 +16,6 @@
   </ul>
 </div>
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Yo
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -35,7 +34,6 @@
 
 ### Frontend Development:
 &emsp;
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 
@@ -54,7 +52,6 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-
 
 
 <h3 align="center" >Contacto 🤝 </h3>
