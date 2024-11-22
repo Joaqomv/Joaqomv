@@ -1,54 +1,47 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋😎</h1></summary>
   </ul>
 </div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Estudiante de Ingenieria Civil Informatica</h2></summary>
   </ul>
 </div>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Yo
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
 - Estudiando 🦧🐒 
 
-
-  ## 🛠️ Mis Skills
--------------------
-### Lenguajes de programación:
+### 💻Lenguajes de programación:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 
-### Frontend Development:
+### ⌨️Frontend Development:
 &emsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 
-### Backend Development:
+### 🖱️Backend Development:
 &emsp;
 ![Express](https://img.shields.io/badge/-Express-000?logo=Express)
 
-### Herramientas:
+### 🛠️Herramientas:
 &emsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
 
-### Databases:
+### 💾Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
