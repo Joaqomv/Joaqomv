@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
@@ -68,7 +63,7 @@
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 
 
