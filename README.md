@@ -29,7 +29,6 @@
 
 ### ⌨️Frontend Development:
 &emsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 
 ### 🖱️Backend Development:
