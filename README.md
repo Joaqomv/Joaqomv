@@ -13,8 +13,10 @@
     <summary><h2 style="display: inline-block">Estudiante de Ingenieria Civil Informatica</h2></summary>
   </ul>
 </div>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Yo
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <br>
 
